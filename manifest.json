@@ -1,0 +1,10 @@
+{
+  "name": "DMI Plugin Test",
+  "id": "1199425834439520932",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html"
+}
